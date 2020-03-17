@@ -1,0 +1,12 @@
+C:\Users\拜仁神锋李沐\Desktop\世界技能大赛\World Game\obj\Debug\World Game.csprojAssemblyReference.cache
+C:\Users\拜仁神锋李沐\Desktop\世界技能大赛\World Game\obj\Debug\World_Game.Properties.Resources.resources
+C:\Users\拜仁神锋李沐\Desktop\世界技能大赛\World Game\obj\Debug\World Game.csproj.GenerateResource.cache
+C:\Users\拜仁神锋李沐\Desktop\世界技能大赛\World Game\obj\Debug\World Game.csproj.CoreCompileInputs.cache
+C:\Users\拜仁神锋李沐\Desktop\世界技能大赛\World Game\bin\Debug\World Game.exe.config
+C:\Users\拜仁神锋李沐\Desktop\世界技能大赛\World Game\bin\Debug\World Game.exe
+C:\Users\拜仁神锋李沐\Desktop\世界技能大赛\World Game\bin\Debug\World Game.pdb
+C:\Users\拜仁神锋李沐\Desktop\世界技能大赛\World Game\obj\Debug\World Game.exe
+C:\Users\拜仁神锋李沐\Desktop\世界技能大赛\World Game\obj\Debug\World Game.pdb
+C:\Users\拜仁神锋李沐\Desktop\世界技能大赛\World Game\obj\Debug\World_Game.login.resources
+C:\Users\拜仁神锋李沐\Desktop\世界技能大赛\World Game\obj\Debug\World_Game.staff.resources
+C:\Users\拜仁神锋李沐\Desktop\世界技能大赛\World Game\obj\Debug\World_Game.function.search.resources
